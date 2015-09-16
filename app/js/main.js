@@ -21,23 +21,23 @@ var App = React.createClass({
       <div>
         <div className="nav-menu">
           <div className="sub-menu">
-            <Link to="home">首页</Link>
+            <Link to="home">AAAAA</Link>
             <div  className="sub2-menu">
-              <Link to="propertyManage">资产管理</Link>
-              <Link to="tradeRecod">交易记录</Link>
+              <Link to="propertyManage">BBBBB</Link>
+              <Link to="tradeRecod">CCCCC</Link>
             </div>
           </div>
           <div  className="sub-menu">
-            <Link to="planManage">投资理财计划</Link>
+            <Link to="planManage">DDDDD</Link>
             <div  className="sub2-menu">
-              <Link to="newPlan">发布</Link>
+              <Link to="newPlan">EEEEE</Link>
             </div>
           </div>
           <div  className="sub-menu">
-            <Link to="investManage">投资管理</Link>
+            <Link to="investManage">FFFFF</Link>
           </div>
           <div  className="sub-menu">
-            <Link to="investerManage">投资人管理</Link>
+            <Link to="investerManage">GGGGG</Link>
           </div>
         </div>
 
